@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@syncfusion/ej2-base": "^27.2.2",
+    "@syncfusion/ej2-react-kanban": "^27.2.3",
+    "proptypes": "^1.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
